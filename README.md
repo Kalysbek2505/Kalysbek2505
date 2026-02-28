@@ -38,7 +38,7 @@
 ---
 
 ## Избранные проекты
-- 🛒 **clothing_store** — e-commerce: Django + DRF + PostgreSQL + Docker Compose  
+- 🛒 **clothing_store** - e-commerce: Django + DRF + PostgreSQL + Docker Compose  
   https://github.com/Kalysbek2505/clothing_store
 ---
 
