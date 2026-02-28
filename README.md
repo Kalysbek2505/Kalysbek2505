@@ -11,7 +11,7 @@
 
 ---
 
-## 🎯 Чем занимаюсь
+##  Чем занимаюсь
 - Backend на Django/DRF
 - PostgreSQL: запросы, индексы, оптимизация (N+1, EXPLAIN)
 - Celery + Redis: очереди, периодические таски
@@ -19,14 +19,14 @@
 
 ---
 
-## ❤️ Что люблю
+## Что мне нравится
 - Веб-разработка и API
 - Автоматизация (Telegram, скрипты)
 - Реальные продакшн-фичи под бизнес, а не учебные CRUD-игрушки
 
 ---
 
-## 🧰 Стек
+##  Стек
 <p>
   <img src="https://img.shields.io/badge/Python-000?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-000?logo=django&logoColor=white" />
@@ -41,19 +41,11 @@
 
 ---
 
-## 🚀 Избранные проекты
+## Избранные проекты
 - 🛒 **clothing_store** — e-commerce: Django + DRF + PostgreSQL + Docker Compose  
   https://github.com/Kalysbek2505/clothing_store
-
-- 🤖 **video_analytics_test** — Telegram-бот: запросы на русском → аналитика из PostgreSQL (aiogram + OpenAI)  
-  https://github.com/Kalysbek2505/video_analytics_test
-
-- 🧩 **ASAI** — Odoo-модуль, бизнес-процесс, docker-compose  
-  https://github.com/Kalysbek2505/ASAI
-
 ---
 
-## 📫 Контакты
-- Telegram: https://t.me/USERNAME
-- Email: your@email.com
-- Резюме: ссылка
+## Контакты
+- Telegram: https://t.me/xyzwerttt
+- Email: zarypbekov.kalys@gmail.com
