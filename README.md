@@ -1,19 +1,16 @@
 # 👋 Привет! 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kalysbek2505&label=Просмотры%20профиля&color=0e75b6&style=flat" />
-</p>
 
-- 🇰🇬 Кыргызстан (Бишкек)
-- 🧠 Python backend-разработчик (Django / DRF)
-- 🧰 Делаю REST API, автоматизации, фоновые задачи (Celery)
+- 🇰🇬  Бишкек
+- 🧠 Python backend-разработчик Django/DRF, FastAPI
+- 🧰 Делаю REST API, автоматизации, фоновые задачи 
 - 🧱 Люблю чистый код, а не “лишь бы работало” 🙂
 
 ---
 
 ##  Чем занимаюсь
-- Backend на Django/DRF
-- PostgreSQL: запросы, индексы, оптимизация (N+1, EXPLAIN)
+- Backend на Django/DRF, FastAPI
+- PostgreSQL: запросы, индексы, оптимизация
 - Celery + Redis: очереди, периодические таски
 - Docker / docker-compose, базовый деплой (nginx)
 
