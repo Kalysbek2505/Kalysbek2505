@@ -25,15 +25,15 @@
 
 ##  Стек
 <p>
-  <img src="https://img.shields.io/badge/Python-000?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-000?logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-000?logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-000?logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-000?logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-000?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000?logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/Django-000?style=flat&logo=django" />
+  <img src="https://img.shields.io/badge/DRF-000?style=flat&logo=django" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Celery-000?style=flat&logo=celery" />
+  <img src="https://img.shields.io/badge/Redis-000?style=flat&logo=redis" />
+  <img src="https://img.shields.io/badge/Docker-000?style=flat&logo=docker" />
+  <img src="https://img.shields.io/badge/Linux-000?style=flat&logo=linux" />
+  <img src="https://img.shields.io/badge/Git-000?style=flat&logo=git" />
 </p>
 
 ---
